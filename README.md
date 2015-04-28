@@ -1,46 +1,58 @@
-## Your Name
+#Kate Beavis
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Enthusiastic junior developer with a background in management in the hospitality industry. I am passionate about object orientated programming, test driven development and agile methodologies. Through my work I have developed excellent communication skills and a love for working as part of a team in a challenging and fast paced environment.
 
-## Skills
+I am looking for a junior role in an environment that challenges me, where I can continue to learn and develop and be able to make valuable contributions to the team.
 
-#### This Skill
+#Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+###Software Development
 
-- Experience
-- Achievements
-- Evidence
+* 12 weeks immersive coding bootcamp where I was taught best practices by world class developers and had an in-depth introduction to technologies such as:
+ * Ruby
+ * Rails & ActiveRecord
+ * Javascript & jQuery
+ * Sinatra & Datamapper
+ * PostgreSQL
+ * AngularJS
+ * Node.js & Express.js
+* Front end technologies including:
+ * HTML & CSS
+ * Twitter Bootstrap & Google Materialize
+ * APIs such as Twilio & Google Maps
+* Object Orientated Design following SOLID principles
+* MVC Design Pattern
+* Agile principles & practices such as SCRUM & Kanban
+* Pair programming
+* Version control with Git
 
-#### Another Skill
+###Test and Behaviour Driven Development
+I am an avid believer in test and behaviour driven development
+* All my projects having test coverage of 90 - 100%
+* Experience of using Rspec, Jasmine, Protractor, Cucumber & Capybara
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+###People Management
+I have been responsible for managing teams of up to 40 people on a daily basis
+ * Friendly with excellent intrapersonal skills
+ * Responsible for staff training which lead to improved nps and made a positive impact to the business
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+###Communication & Teamwork
+I work well within a group and thrive on team dynamics
+ * Pair programmed everyday at Makers Academy
+ * Engaging with the general public was a key part of my job leading to excellent communication skills
+ * Worked as part of a team everyday
 
-## Education
+#Education
+###Makers Academy (February to April 2015)
+Immersive 12 week web development course where I lived & breathed code for 12 weeks. It was tough and very challenging at times yet I enjoyed it throughly and feel it gave me the skills to begin to carve my career as a junior developer.
 
-#### Makers Academy (start_date to end-date)
+###Training Dragon (April to May 2014)
+I learnt the basics of HTML5 & CSS3 and had my portfolio project chosen to be hosted as an example project for the course.
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular,js
-- Rspec, Jasmine, Mocha
+#Work Experience
+###Alumni Helper at Makers Academy (March 2015 to present)
+Assisting students with problem solving and logic, and helping to debug their code.
+Mentoring students individually if they need help.
 
-#### Your University / College (start_date to end-date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name (start_date to end-date)**  
-*Your job title*
+###Assistant Manager at Cafe Rouge (April 2007 to January 2015)
+Managing a busy central London restaurant, following strict financial procedures and ensuring staff and customer satisfaction.
