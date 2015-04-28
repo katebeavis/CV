@@ -50,16 +50,19 @@ I work well within a group and thrive on team dynamics.
  * Worked as part of a team everyday.
 
 #Education
-###[Makers Academy](www.makersacademy.com) (February to April 2015)
+#####[Makers Academy](www.makersacademy.com) (February to April 2015)
 Immersive 12 week web development course where I lived & breathed code for 12 weeks. It was tough and very challenging at times yet I enjoyed it throughly and feel it gave me the skills to begin to carve my career as a junior developer.
 
-###Training Dragon (April to May 2014)
+#####Training Dragon (April to May 2014)
 I learnt the basics of HTML5 & CSS3 and had my portfolio project chosen to be hosted as an example project for the [course](http://coursemixer.com/courses/web_design/kate/).
 
 #Work Experience
-###Alumni Helper at Makers Academy (March 2015 to present)
+#####Alumni Helper at Makers Academy (March 2015 to present)
 Assisting students with problem solving and logic, and helping to debug their code.
 Mentoring students individually if they need help.
 
-###Assistant Manager at Cafe Rouge (April 2007 to January 2015)
+#####Assistant Manager at Cafe Rouge (April 2007 to January 2015)
 Managing a busy central London restaurant, following strict financial procedures and ensuring staff and customer satisfaction.
+
+#Interests
+I love to travel and explore. I've lived and worked in both Australia and New Zealand and have travlled the world solo twice.
