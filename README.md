@@ -4,6 +4,13 @@ Enthusiastic junior developer with a background in management in the hospitality
 
 I am looking for a junior role in an environment that challenges me, where I can continue to learn and develop and be able to make valuable contributions to the team.
 
+#Portfolio
+Repo | URL | Description
+---|---|---
+[Dinnr](https://github.com/Dinnr-Makers/Dinnr) | [dinnr.herokuapp.com](http://dinnr.herokuapp.com) | Dinnr, a social network for people who want to cook together, was my final project at Makers Academy. It was built with Rails, using the Google Maps API.
+[Blogbook](https://github.com/dinnr/royalty_loyalty) | [dinnr.herokuapp.com](http://dinnr.herokuapp.com) | Blogbook is a blog aggregator built in Javascript and AngularJS on a Node server.
+[Chitter](https://github.com/katebeavis/chitter-challenge) | [chitter-kate.herokuapp.com](https://chitter-kate.herokuapp.com/) | Chitter is a replica of a well known social network. It was built in Ruby, using Sinatra and PostgreSQL.
+
 #Skills
 
 ###Software Development
@@ -29,7 +36,7 @@ I am looking for a junior role in an environment that challenges me, where I can
 ###Test and Behaviour Driven Development
 I am an avid believer in test and behaviour driven development
 * All my projects having test coverage of 90 - 100%
-* Experience of using Rspec, Jasmine, Protractor, Cucumber & Capybara
+* Experience of using Rspec, Jasmine, Protractor, Cucumber, Capybara and Travis with Code Climate for continuous integration
 
 ###People Management
 I have been responsible for managing teams of up to 40 people on a daily basis
@@ -43,11 +50,11 @@ I work well within a group and thrive on team dynamics
  * Worked as part of a team everyday
 
 #Education
-###Makers Academy (February to April 2015)
+###[Makers Academy](www.makersacademy.com) (February to April 2015)
 Immersive 12 week web development course where I lived & breathed code for 12 weeks. It was tough and very challenging at times yet I enjoyed it throughly and feel it gave me the skills to begin to carve my career as a junior developer.
 
 ###Training Dragon (April to May 2014)
-I learnt the basics of HTML5 & CSS3 and had my portfolio project chosen to be hosted as an example project for the course.
+I learnt the basics of HTML5 & CSS3 and had my portfolio project chosen to be hosted as an example project for the [course](http://coursemixer.com/courses/web_design/kate/).
 
 #Work Experience
 ###Alumni Helper at Makers Academy (March 2015 to present)
