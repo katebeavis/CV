@@ -65,4 +65,4 @@ Mentoring students individually if they need help.
 Managing a busy central London restaurant, following strict financial procedures and ensuring staff and customer satisfaction.
 
 #Interests
-I love to travel and explore. I've lived and worked in both Australia and New Zealand and have travlled the world solo twice.
+I love to travel and explore. I've lived and worked in both Australia and New Zealand and have travelled the world solo twice.
