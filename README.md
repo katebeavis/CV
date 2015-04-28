@@ -8,7 +8,7 @@ I am looking for a junior role in an environment that challenges me, where I can
 Repo | URL | Description
 ---|---|---
 [Dinnr](https://github.com/Dinnr-Makers/Dinnr) | [dinnr.herokuapp.com](http://dinnr.herokuapp.com) | Dinnr, a social network for people who want to cook together, was my final project at Makers Academy. It was built with Rails, using the Google Maps API.
-[Blogbook](https://github.com/dinnr/royalty_loyalty) | [dinnr.herokuapp.com](http://dinnr.herokuapp.com) | Blogbook is a blog aggregator built in Javascript and AngularJS on a Node server.
+[Blogbook](https://github.com/dinnr/royalty_loyalty) | [makers-blogbook.herokuapp.com](https://makers-blogbook.herokuapp.com) | Blogbook is a blog aggregator built in Javascript and AngularJS on a Node server.
 [Chitter](https://github.com/katebeavis/chitter-challenge) | [chitter-kate.herokuapp.com](https://chitter-kate.herokuapp.com/) | Chitter is a replica of a well known social network. It was built in Ruby, using Sinatra and PostgreSQL.
 
 #Skills
