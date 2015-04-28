@@ -40,7 +40,7 @@ I am an avid believer in test and behaviour driven development.
 
 ###People Management
 I have been responsible for managing teams of up to 40 people on a daily basis.
- * Friendly with excellent intrapersonal skills.
+ * Friendly with excellent interpersonal skills.
  * Responsible for staff training which lead to improved nps and made a positive impact to the business.
 
 ###Communication & Teamwork
