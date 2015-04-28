@@ -1,6 +1,6 @@
 #Kate Beavis
 
-Enthusiastic junior developer with a background in management in the hospitality industry. I am passionate about object orientated programming, test driven development and agile methodologies. Through my work I have developed excellent communication skills and a love for working as part of a team in a challenging and fast paced environment.
+Enthusiastic junior web developer with a background in management in the hospitality industry. I am passionate about object orientated programming, test driven development and agile methodologies. Through my work I have developed excellent communication skills and a love for working as part of a team in a challenging and fast paced environment.
 
 I am looking for a junior role in an environment that challenges me, where I can continue to learn and develop and be able to make valuable contributions to the team.
 
@@ -15,7 +15,7 @@ Repo | URL | Description
 
 ###Software Development
 
-* 12 weeks immersive coding bootcamp where I was taught best practices by world class developers and had an in-depth introduction to technologies such as:
+* Attended a 12 weeks immersive coding bootcamp where I was taught best practices by world class developers and had an in-depth introduction to technologies such as:
  * Ruby
  * Rails & ActiveRecord
  * Javascript & jQuery
@@ -27,27 +27,27 @@ Repo | URL | Description
  * HTML & CSS
  * Twitter Bootstrap & Google Materialize
  * APIs such as Twilio & Google Maps
-* Object Orientated Design following SOLID principles
-* MVC Design Pattern
-* Agile principles & practices such as SCRUM & Kanban
-* Pair programming
-* Version control with Git
+* Object Orientated Design following SOLID principles.
+* MVC Design Pattern.
+* Agile principles & practices such as SCRUM & Kanban.
+* Pair programming.
+* Version control with Git.
 
 ###Test and Behaviour Driven Development
-I am an avid believer in test and behaviour driven development
-* All my projects having test coverage of 90 - 100%
-* Experience of using Rspec, Jasmine, Protractor, Cucumber, Capybara and Travis with Code Climate for continuous integration
+I am an avid believer in test and behaviour driven development.
+* All my projects have test coverage of 90 - 100%.
+* Experience of using Rspec, Jasmine, Protractor, Cucumber, Capybara and Travis with Code Climate for continuous integration.
 
 ###People Management
-I have been responsible for managing teams of up to 40 people on a daily basis
- * Friendly with excellent intrapersonal skills
- * Responsible for staff training which lead to improved nps and made a positive impact to the business
+I have been responsible for managing teams of up to 40 people on a daily basis.
+ * Friendly with excellent intrapersonal skills.
+ * Responsible for staff training which lead to improved nps and made a positive impact to the business.
 
 ###Communication & Teamwork
-I work well within a group and thrive on team dynamics
- * Pair programmed everyday at Makers Academy
- * Engaging with the general public was a key part of my job leading to excellent communication skills
- * Worked as part of a team everyday
+I work well within a group and thrive on team dynamics.
+ * Pair programmed everyday at Makers Academy.
+ * Engaging with the general public was a key part of my job leading to excellent communication skills.
+ * Worked as part of a team everyday.
 
 #Education
 ###[Makers Academy](www.makersacademy.com) (February to April 2015)
