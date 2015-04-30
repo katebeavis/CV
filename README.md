@@ -50,8 +50,8 @@ I work well within a group and thrive on team dynamics.
  * Worked as part of a team everyday.
 
 #Education
-#####[Makers Academy](www.makersacademy.com) (February to April 2015)
-Immersive 12 week web development course where I lived & breathed code for 12 weeks. It was tough and very challenging at times yet I enjoyed it throughly and feel it gave me the skills to begin to carve my career as a junior developer.
+#####Makers Academy (February to April 2015)
+Highly selective 12 week web development course where I lived & breathed code for 12 weeks. It was tough and very challenging at times yet I enjoyed it throughly and feel it gave me the skills to begin to carve my career as a junior developer.
 
 #####Training Dragon (April to May 2014)
 I learnt the basics of HTML5 & CSS3 and had my portfolio project chosen to be hosted as an example project for the [course](http://coursemixer.com/courses/web_design/kate/).
