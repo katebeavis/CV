@@ -61,7 +61,7 @@ I learnt the basics of HTML5 & CSS3 and had my portfolio project chosen to be ho
 Assisting students with problem solving and logic, and helping to debug their code.
 Mentoring students individually if they need help.
 
-#####Assistant Manager at Cafe Rouge (April 2007 to January 2015)
+#####Restaurant Supervisor at Cafe Rouge (April 2007 to January 2015)
 Managing a busy central London restaurant, following strict financial procedures and ensuring staff and customer satisfaction.
 
 #Interests
