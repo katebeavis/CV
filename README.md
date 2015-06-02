@@ -8,7 +8,7 @@ I am looking for a junior role in an environment that challenges me, where I can
 Repo | URL | Description
 ---|---|---
 [Dinnr](https://github.com/katebeavis/Dinnr) | [dinnr.herokuapp.com](http://dinnr.herokuapp.com) | Dinnr, a social network for people who want to cook together, was my final project at Makers Academy. It was built with Rails, using the Google Maps API.
-[Tube App](https://github.com/katebeavis/tube-api-app) | [kate-tubeapp.herokuapp.com](https://kate-tubeapp.herokuapp.com) | Tube app is a single page application which utilises the transport api and Google Places autocomplete api, to help users plan their journey in London.
+[Tube App](https://github.com/katebeavis/tube-api-app) | See repo for Heroku details | Tube app is a single page application which utilises the transport api and Google Places autocomplete api, to help users plan their journey in London.
 [Chitter](https://github.com/katebeavis/chitter-challenge) | [chitter-kate.herokuapp.com](https://chitter-kate.herokuapp.com/) | Chitter is a replica of a well known social network. It was built in Ruby, using Sinatra and PostgreSQL.
 
 #Skills
