@@ -57,7 +57,10 @@ Highly selective 12 week web development course where I lived & breathed code fo
 I learnt the basics of HTML5 & CSS3 and had my portfolio project chosen to be hosted as an example project for the [course](http://coursemixer.com/courses/web_design/kate/).
 
 #Work Experience
-#####Alumni Helper at Makers Academy (March 2015 to present)
+#####Junior Software Engineer at Zopa (July 2015 - Present)
+Junior Software Engineer.
+
+#####Alumni Helper at Makers Academy (March 2015 to June 2015)
 Assisting students with problem solving and logic, and helping to debug their code.
 Mentoring students individually if they need help.
 
